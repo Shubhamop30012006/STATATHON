@@ -1,5 +1,3 @@
 # .gitignore
-node_modules/
-
-
-mospi-api-gateway\node_modules
+# Ignore ALL node_modules folders
+**/node_modules/
