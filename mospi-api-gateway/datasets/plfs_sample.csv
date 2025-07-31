@@ -1,0 +1,6 @@
+state,        gender,  age,education,       employment_status
+Maharashtra,  Female,   25,Graduate,        Employed
+Karnataka,    Male,     32,Secondary,       Unemployed
+Bihar,        Female,   19,Illiterate,      Employed
+Tamil Nadu,   Male,     45,Graduate,        Unemployed
+Maharashtra,  Male,     27,Higher Secondary,Employed
